@@ -1,0 +1,5 @@
+name: DisableJoinMessages
+version: 1.0
+author: sqlskid
+description: This plugin will disable Join and Leave messages!
+main: cf.sqlskid.disablejoinmessages.Main
